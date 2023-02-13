@@ -79,3 +79,18 @@ form {
     border-radius: 5px;
     font-family: 'Inter', sans-serif;
 }
+.title-page{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 700px;
+    background-color: rgba(255, 255, 255, .3);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+.title-page .title{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
