@@ -71,6 +71,10 @@ form {
     cursor: pointer;
     font-family: 'Inter', sans-serif;
 }
+
+.container button:hover{
+    padding: 12px;
+}
 .container input{
     border-radius: 5px;
     font-family: 'Inter', sans-serif;
